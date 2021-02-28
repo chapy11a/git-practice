@@ -4,3 +4,5 @@ modify
 new-fetureブランチ
 no fast forward
 conflict
+
+fetch test
