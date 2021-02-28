@@ -3,3 +3,4 @@
 modify
 new-fetureブランチ
 no fast forward
+main / conflict
