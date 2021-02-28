@@ -5,4 +5,4 @@ new-fetureブランチ
 no fast forward
 conflict
 
-fetch test
+fetch test(編集)
